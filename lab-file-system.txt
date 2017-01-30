@@ -7,7 +7,7 @@ Follow the instructions line-by-line.
 * Enter, tab, up and down are represented by <ENTER><TAB>,<UP> and <DOWN>.  
 * "No output" or "nothing happens" are valid answers to any of the questions.
 ==========
-
+gjkhjkhjk
 ==========
 1. Open a new terminal window.
 ----------
