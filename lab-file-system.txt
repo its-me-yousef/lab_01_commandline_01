@@ -294,5 +294,4 @@ a folder or a place where files are kept
 ==========
 31. What's the *absolute* path (full path, starting at root) to your user's Downloads directory?
 ----------
-
-absolute is the complete address, while the relative path is the address from where you are
+/Users/student/Downloads/
